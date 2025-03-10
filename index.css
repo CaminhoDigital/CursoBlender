@@ -242,15 +242,12 @@ header > nav > a{
         padding: 5px;
     }
   
-
-
     #organiza{
         display: flex;
         
         align-items: center;
         justify-content:center;
     }
-
 
     #assista > nav > div > div > a >img{
         width: 125px;
@@ -259,7 +256,7 @@ header > nav > a{
         margin: 0 3px;
         display: flex;
         margin-bottom: 20px;
-        margin-top: 25px;
+        
     }
 
 
