@@ -61,7 +61,7 @@ header > nav > a{
         background-color: #6385a8;
         color: white;
         margin: 7px 0px;
-        margin-right: 2px;
+        margin-right: 6px;
         border-radius: 10px;
         padding: 5px;
     }
@@ -86,9 +86,6 @@ header > nav > a{
     }
 
 }
-
-
-
 
 #ffooter {
     background-color: white;
@@ -141,6 +138,8 @@ header > nav > a{
     #ffooter {
         background-color: white;
         height: 140px;
+       
+      
     }
 
 
@@ -149,27 +148,40 @@ header > nav > a{
         display: flex;
         align-items: center;
         justify-content: center;
-        flex-direction: column;
+    
         height: 80px;
         width: 75px;
         text-decoration: none;
-        margin: 0; 
+        
         color: #265787;
         border-radius: 10px;
         margin-top: 25px;
         font-family: open sans;
         font-size: 15px;
         padding: 3px;
+        
     }
 
     #ffooter > nav {
         display: flex; 
-   
+       
         align-items: center; 
         justify-content: center; 
         gap: 20px; 
     }
     
+    #ffooter > nav > div > a > img {
+        width: 50px; 
+       
+    }
+   
+  .livro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+   
+  }
 }
 
 
