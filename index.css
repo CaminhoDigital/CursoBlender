@@ -281,10 +281,3 @@ header > nav > a{
     height: auto;
     display: flex;
 }
-@media (max-width: 768px) {
-    #fim > img{
-        width: 385px;
-        height: auto;
-        
-    }
-}
