@@ -122,7 +122,8 @@ header > nav > a{
 }
 
 #ffooter > nav > div > a{
-    font-size: 50px;
+    font-size: 25px;
+    font-family: open sans;
 }
 #ffooter > nav > div > a > img {
     width: 150px; 
